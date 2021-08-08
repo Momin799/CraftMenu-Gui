@@ -1,6 +1,6 @@
 name: CraftMenu
 api: ["3", "4"]
-author: NomiandMomin
+author: Momin
 version: 1
 main: CraftMenu\Momin\Main
 
