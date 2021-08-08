@@ -1,0 +1,11 @@
+name: CraftMenu
+api: ["3", "4"]
+author: NomiandMomin
+version: 1
+main: CraftMenu\Momin\Main
+
+commands:
+  craftmenu:
+    description: Open Craft Menu
+    permission: craftmenu.open.menu  
+    default: true
